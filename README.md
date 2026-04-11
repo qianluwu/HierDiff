@@ -1,6 +1,6 @@
 # HierDiff: Hierarchical Grouped Differential Bitmap Versioning for HTAP
 
-This repository contains a prototype implementation and experimental evaluation code for **HierDiff**, a hierarchical grouped differential bitmap multi-version management scheme designed for **HTAP (Hybrid Transactional/Analytical Processing)** workloads. Our paper, "Optimizing Bitmap-Based Multi-Version Management in Columnar Storage for HTAP Databases", is submitted to VLDB 2026.
+This repository contains a prototype implementation and experimental evaluation code for **HierDiff**, a hierarchical grouped differential bitmap multi-version management scheme designed for **HTAP (Hybrid Transactional/Analytical Processing)** workloads. Our paper, "Optimizing Bitmap-Based Multi-Version Management in Columnar Storage for HTAP Databases", is submitted to SIGMOD 2027.
 
 The codebase provides an initial standalone implementation of the bitmap-based MVCC design and its **HierDiff**-enhanced variant, which was later integrated and refined within the closed-source HexaDB system.
 
